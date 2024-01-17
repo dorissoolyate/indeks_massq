@@ -10,4 +10,4 @@ if indeks_massq=="1":
 else:
     print("Kahju! See on väga kasulik info!")
     print()
-    print("Kohtumiseni, " + nimi + "! Igavesti Sinu, Python!")
+    print("Kohtumiseni, " + nimi + "! Igavesti Sinu, Python!") 
